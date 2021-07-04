@@ -1,6 +1,6 @@
 # Web Scrapper for Imot.bg
 
-This Scrapper/Crawler is designed specifically for Imot.bg to make easier to check quickly your desired searches. 
+Scrapper/Crawler designed specifically for Imot.bg to make easier to check quickly your desired searches. 
 
 > Disclaimer: The project is for learning purposes. It was a quick idea I wanted to play around with. Future improvements may come as I think of such and have the time for those.
 
@@ -12,10 +12,10 @@ This Scrapper/Crawler is designed specifically for Imot.bg to make easier to che
 
 ## Functionalities
  - Can sort by Price [ASC/DESC]
- - Can filter by the specific places 
+ - Can filter by the specific neighborhood (gathered from all results)
  - Removes any duplicated offers from agencies (based on the description)
  - Shows all results on a single page
- - Will fetched results are cached for 1 hour
+ - Fetched results are cached for 1 hour
 
 
 ## Usage / Local Development
