@@ -1,0 +1,48 @@
+{
+  "name": "imotbg-crawler",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://github.com/simeon-petrov-5/imotbg-crawler",
+  "description": "Cheerio & Nuxt Scrapper/Crawler designed specifically for Imot.bg to make easier to check quickly your desired searches.",
+  "keywords": [
+    "javascript",
+    "learning",
+    "nuxt",
+    "vue",
+    "cheerio",
+    "scrapper",
+    "crawler"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simeon-petrov-5/imotbg-crawler.git"
+  },
+  "author": {
+    "name": "Simeon Petrov",
+    "url": "https://github.com/simeon-petrov-5"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "cheerio": "^1.0.0-rc.10",
+    "core-js": "^3.15.1",
+    "express": "^4.17.1",
+    "iconv-lite": "^0.6.3",
+    "lodash.uniqby": "^4.7.0",
+    "node-cache": "^5.1.2",
+    "nuxt": "^2.15.7",
+    "vue-unicons": "^3.2.1"
+  },
+  "devDependencies": {
+    "fibers": "^5.0.0",
+    "nuxt-vite": "^0.1.1",
+    "sass": "^1.35.1",
+    "sass-loader": "10"
+  }
+}
